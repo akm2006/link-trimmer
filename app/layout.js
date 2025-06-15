@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "LinKPR",
+  title: "LinkTrim",
   description: "Trim Links",
 };
 
